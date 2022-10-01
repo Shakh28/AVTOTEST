@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVTOTEST", "AVTOTEST\AVTOTEST.csproj", "{61FE3570-A5DC-439E-9854-3211189D55BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61FE3570-A5DC-439E-9854-3211189D55BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FE3570-A5DC-439E-9854-3211189D55BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FE3570-A5DC-439E-9854-3211189D55BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FE3570-A5DC-439E-9854-3211189D55BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB09FD95-6AC2-4528-AEC5-60EA72AAD412}
+	EndGlobalSection
+EndGlobal
